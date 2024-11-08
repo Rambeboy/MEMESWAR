@@ -1,6 +1,8 @@
-# MemesWar Bot
+### MEMESWAR BOT
 
-An automated bot for managing [MemesWar](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=3K4X6N) tasks and activities.
+![memeswar](assets/memeswar.jpg)
+
+An automated bot for managing tasks and activities.
 
 ## Features
 
@@ -21,8 +23,8 @@ An automated bot for managing [MemesWar](https://t.me/Memes_War_Start_Bot/MemesW
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Galkurta/MemeWar-BOT.git
-cd MemeWar-BOT
+git clone https://github.com/Rambeboy/MEMESWAR.git
+cd MEMESWAR
 ```
 
 2. Install dependencies
@@ -47,6 +49,8 @@ npm install
 node main.js
 ```
 
+---
+
 ## Features Explained
 
 ### Daily Check-in
@@ -54,11 +58,15 @@ node main.js
 - Automatically checks in daily for rewards
 - Tracks consecutive check-in days
 
+---
+
 ### Treasury Management
 
 - Monitors treasury reward availability
 - Claims rewards when available
 - Shows countdown for next claim
+
+---
 
 ### Quest System
 
@@ -66,11 +74,15 @@ node main.js
 - Completes daily and single quests
 - Claims quest rewards
 
+---
+
 ### Guild Operations
 
 - Transfers Warbonds to guild when threshold is met
 - Manages guild favorites
 - Monitors guild status
+
+---
 
 ## Notes
 
@@ -79,18 +91,22 @@ node main.js
 - Default cycle interval is 65 minutes
 - Minimum Warbond threshold for transfer is 1000
 
+---
+
 ## Register
 
 New to MemesWar? Register using [this link](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=3K4X6N) to get started with additional benefits!
+
+---
 
 ## Warning
 
 This is an unofficial bot. Use at your own risk. The authors are not responsible for any consequences of using this bot.
 
-## Contributing
-
-Feel free to submit issues and pull requests to help improve the bot.
+---
 
 ## License
 
 [MIT License](LICENSE)
+
+---
